@@ -138,3 +138,13 @@ public/
 ## License
 
 MIT
+
+---
+
+## 本地 Fork 说明
+
+本仓库为 `oreno123/wenmai` 的镜像克隆，克隆至 `BlaineGale/wenmai-patterns` 账号下。
+
+- 上游仓库：https://github.com/oreno123/wenmai
+- 许可证：MIT（沿用上游）
+- 用途：纹脉项目二次开发与本地部署
