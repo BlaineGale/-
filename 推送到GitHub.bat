@@ -9,7 +9,7 @@ REM  推送分支：main + wenmai-v3
 REM  注意：源仓库必须是完整历史克隆，不能用 --depth 1
 REM ============================================================
 
-set REPO=git@github.com:BlaineGale/wenmai-patterns.git
+set REPO=git@github.com:BlaineGale/-.git
 set SRC=%TEMP%\wenmai_full
 
 echo ==========================================
@@ -69,7 +69,7 @@ if errorlevel 1 (
     echo 请在浏览器打开：https://github.com/new
     echo.
     echo   填写内容：
-    echo     Repository name : wenmai-patterns
+    echo     Repository name : （沿用现有仓库）
     echo     Description     : 中国传统纹样抽卡与创作 Web 应用
     echo     Visibility      : Public
     echo     下面三个初始化选项全部不要勾
@@ -101,6 +101,6 @@ echo ==========================================
 echo    推送完成
 echo ==========================================
 echo.
-echo 仓库地址：https://github.com/BlaineGale/wenmai-patterns
+echo 仓库地址：https://github.com/BlaineGale/-
 echo.
 pause
