@@ -143,7 +143,7 @@ MIT
 
 ## 本地 Fork 说明
 
-本仓库为 `oreno123/wenmai` 的镜像克隆，克隆至 `BlaineGale/wenmai-patterns` 账号下。
+本仓库为 `oreno123/wenmai` 的本地镜像，克隆至 `BlaineGale/wenmai` 账号下。
 
 - 上游仓库：https://github.com/oreno123/wenmai
 - 许可证：MIT（沿用上游）
